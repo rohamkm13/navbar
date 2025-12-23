@@ -11,6 +11,7 @@ A clean and responsive navigation bar built with TailwindCSS.
 ## Screenshot
 
  <img src="Macbook-Pro-16-2110x1286.png"  alt="Description of image 1"/>
+ <img src="iPhone-14-Pro-431x891.png"  alt="Description of image 1"/>
 
 
 
