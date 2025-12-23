@@ -9,7 +9,11 @@ A clean and responsive navigation bar built with TailwindCSS.
 - Easy to customize
 
 ## Screenshot
-![desktop](Macbook-Pro-16-2110x1286.png) ![mobile](Macbook-Pro-16-2110x1286.png)
+
+ <img src="Macbook-Pro-16-2110x1286.png"  alt="Description of image 1"/>
+
+
+
 
 
 ## What I Learned
